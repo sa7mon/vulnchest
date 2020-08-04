@@ -1,5 +1,6 @@
 # Vuln Chest
 
+A collection of vulnerable applications for research purposes.
 
 ## CVEs
 
